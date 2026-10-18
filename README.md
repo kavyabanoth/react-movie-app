@@ -15,6 +15,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # React Movie App
+<img width="1920" height="1080" alt="home png" src="https://github.com/user-attachments/assets/1097d8ba-eae5-4a78-9388-03123ea2aaa8" />
+<img width="1920" height="1080" alt="favorites png" src="https://github.com/user-attachments/assets/ee6e00d6-f93c-46c5-9f3f-853152630d7b" />
 
 A movie search and favorites app built with React and the TMDB API. Browse popular movies, search by title, and save your favorites.
 
