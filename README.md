@@ -17,8 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # React Movie App
 
 A movie search and favorites app built with React and the TMDB API. Browse popular movies, search by title, and save your favorites.
-"C:\Users\banot\OneDrive\Documents\Screenshots\Screenshot (27).png"
-"C:\Users\banot\OneDrive\Documents\Screenshots\Screenshot (26).png"
+
 ## Features
 
 - Browse popular movies on the home page
@@ -34,11 +33,6 @@ A movie search and favorites app built with React and the TMDB API. Browse popul
 - Context API (state management)
 - TMDB API
 - CSS
-
-## Screenshots
-
-![Home page](screenshots/home.png)
-![Favorites page](screenshots/favorites.png)
 
 ## Getting Started
 
